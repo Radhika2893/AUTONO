@@ -1,0 +1,638 @@
+.navbar {
+    display: flex;
+    flex-direction: column;
+    background-image: url(https://static.wixstatic.com/media/c837a6_02de7d4c43d44b7b890854049ed75da8f000.jpg/v1/fill/w_1082,h_840,al_c,q_85,usm_0.33_1.00_0.00,enc_avif,quality_auto/c837a6_02de7d4c43d44b7b890854049ed75da8f000.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 800px;
+}
+
+.navbar1 {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    font-weight: 600;
+    font-size: 17px;
+}
+
+.navbar2 {
+    display: flex;
+    font-size: 20px;
+    color: black;
+    border-color: white;
+}
+
+.navbar a{
+    text-decoration: none;
+    color: black;
+}
+
+.navbar3 {
+    display: flex;
+    justify-content: center;
+    gap: 100px;
+    margin: 9px;
+}
+
+.navbar3 a{
+    color: black;
+    text-decoration: none;
+}
+
+button {
+    display: flex;
+    font-size: 15px;
+    padding: 10px 30px;
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+}
+
+.navbar4 {
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+    font-size: 50px;
+    font-weight: 650;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+}
+
+.navbar4 p {
+    margin: 0;
+}
+
+.navbar5 {
+    display: flex;
+    font-size: 30px;
+    border-color: black;
+    justify-content: center;
+    align-items: center;
+}
+
+.navbar6 {
+    display: flex;
+    background-image: url(https://static.wixstatic.com/media/c837a6_ea5eeb99f72d42b0a22f459e01bfd33c~mv2.jpg/v1/fill/w_1136,h_1470,al_l,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/c837a6_ea5eeb99f72d42b0a22f459e01bfd33c~mv2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 1000px;
+    padding: 50px;
+}
+
+.navbar7 {
+    display: flex;
+    flex-direction: column;
+    font-size: 15px;
+    color: white;
+}
+
+.navbar8 {
+    display: flex;
+    flex-direction: column;
+    font-size: 15px;
+}
+
+.navbar9 {
+    display: flex;
+    flex-direction: column;
+    font-size: 35px;
+    justify-content: center;
+}
+
+.navbar9 p {
+    width: 300px;
+}
+
+.navbar10 {
+    display: flex;
+    flex-direction: column;
+    font-size: 20px;
+    color: white;
+    justify-content: center;
+    /* font-weight: 200px; */
+}
+
+.navbar10 p {
+    width: 300px;
+}
+
+.navbar11 {
+    display: flex;
+    padding: 50px;
+    flex-direction: column;
+    /* font-size: 15px; */
+}
+
+.navbar12 {
+    display: flex;
+    flex-direction: column;
+    font-size: 15px;
+}
+
+.navbar12 p {
+    width: 300px;
+}
+
+.navbar13 {
+    display: flex;
+    flex-direction: column;
+    font-size: 30px;
+    /* justify-content: center; */
+}
+
+.navbar13 p {
+    width: 300px;
+}
+
+.navbar14 {
+    display: flex;
+    flex-direction: column;
+    background-image: url(https://static.wixstatic.com/media/84770f_3cc097e7503b4ed498e350c6618ef956~mv2.jpg/v1/fill/w_947,h_1190,al_l,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/84770f_3cc097e7503b4ed498e350c6618ef956~mv2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 1000px;
+    padding: 50px;
+}
+
+.navbar15 {
+    display: flex;
+    flex-direction: column;
+}
+
+.navbar16 {
+    display: flex;
+    flex-direction: column;
+    font-size: 50px;
+}
+
+.navbar16 h4 {
+    width: 400px;
+}
+
+.navbar17 {
+    display: flex;
+    flex-direction: column;
+    font-size: 20px;
+}
+
+.navbar17 p {
+    width: 300px;
+}
+
+.navbar15 button {
+    display: flex;
+    font-size: 15px;
+    align-items: center;
+    justify-content: center;
+    background-color: white;
+    color: black;
+    width: 180px;
+    height: 40px;
+    border-radius: 10px;
+}
+
+.navbar18 {
+    display: flex;
+    flex-direction: column;
+    background-image: url(https://static.wixstatic.com/media/84770f_abca8ce0bac24971a57d1f9d40b8238b~mv2.jpg/v1/fill/w_947,h_1190,al_r,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/84770f_abca8ce0bac24971a57d1f9d40b8238b~mv2.jpg);
+    background-position: left;
+    background-repeat: no-repeat;
+    height: 900px;
+}
+
+.navbar19 {
+    display: flex;
+    align-items: flex-end;
+    flex-direction: column;
+    /* margin-left: 800px; */
+}
+
+.navbar20 {
+    display: flex;
+    flex-direction: column;
+    justify-content: right;
+    font-size: 50px;
+}
+
+.navbar21 {
+    display: flex;
+    flex-direction: column;
+    font-size: 20px;
+}
+
+.navbar21 p{
+    width: 400px;
+}
+
+.navbar19 button {
+    display: flex;
+    font-size: 15px;
+    align-items: center;
+    justify-content: center;
+    background-color: white;
+    color: black;
+    width: 180px;
+    height: 40px;
+    border-radius: 10px;
+}
+
+.navbar22 {
+    display: flex;
+    flex-direction: column;
+    background-image: url(https://static.wixstatic.com/media/c837a6_305ff8a7722a479ab58f1d4f2729586e~mv2.jpg/v1/fill/w_947,h_1190,al_l,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/c837a6_305ff8a7722a479ab58f1d4f2729586e~mv2.jpg);
+    background-position: left;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 1000px;
+    padding: 50px;
+}
+
+.navbar23 {
+    display: flex;
+    flex-direction: column;
+}
+
+.navbar24 {
+    display: flex;
+    flex-direction: column;
+    font-size: 50px;
+}
+
+.navbar24 h6 {
+    width: 300px;
+}
+
+.navbar25 {
+    display: flex;
+    flex-direction: column;
+    font-size: 20px;
+}
+
+.navbar25 p {
+    width: 300px;
+}
+
+.navbar23 button {
+    display: flex;
+    font-size: 15px;
+    align-items: center;
+    justify-content: center;
+    background-color: white;
+    color: black;
+    width: 180px;
+    height: 40px;
+    border-radius: 10px;
+}
+
+.navbar26 {
+    display: flex;
+    background-image: url(https://www.shutterstock.com/image-illustration/black-modern-car-headlights-front-600nw-771184300.jpg);
+    background-repeat: no-repeat;
+    color: white;
+    background-size: cover;
+    height: 500px;
+    padding: 50px;
+}
+
+.navbar27 {
+    display: flex;
+    flex-direction: column;
+    font-size: 15px;
+    color: white;
+}
+
+.navbar28 {
+    display: flex;
+    flex-direction: column;
+    font-size: 15px;
+}
+
+.navbar29 {
+    display: flex;
+    flex-direction: column;
+    font-size: 35px;
+    justify-content: center;
+}
+
+.navbar29 p {
+    width: 300px;
+}
+
+.navbar30 {
+    display: flex;
+    flex-direction: column;
+    font-size: 20px;
+    color: white;
+    justify-content: center;
+}
+
+.navbar30 p {
+    width: 300px;
+}
+
+.navbar27 button {
+    display: flex;
+    font-size: 15px;
+    align-items: center;
+    justify-content: center;
+    background-color: black;
+    border: 1px solid white;
+    color: white;
+    width: 180px;
+    height: 40px;
+    border-radius: 10px;
+}
+
+.navbar31 {
+    display: flex;
+    flex-direction: column;
+    /* background-image: url(https://static.wixstatic.com/media/c837a6_305ff8a7722a479ab58f1d4f2729586e~mv2.jpg/v1/fill/w_947,h_1190,al_l,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/c837a6_305ff8a7722a479ab58f1d4f2729586e~mv2.jpg); */
+    background-image: url(https://static.wixstatic.com/media/c837a6_3a4f054db4424af1b034f96ddd7b691a~mv2.jpg/v1/fill/w_947,h_1330,al_r,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/c837a6_3a4f054db4424af1b034f96ddd7b691a~mv2.jpg);
+    background-position: left;
+    background-repeat: no-repeat;
+    height: 500px;
+    padding: 50px;
+}
+
+.navbar32 {
+    display: flex;
+    flex-direction: column;
+    margin-left: 800px;
+}
+
+.navbar33 {
+    display: flex;
+    flex-direction: column;
+    font-size: 35px;
+    justify-content: center;
+}
+
+.navbar34 {
+    display: flex;
+    flex-direction: column;
+    font-size: 20px;
+    justify-content: center;
+
+}
+
+.navbar35 {
+    display: flex;
+    gap: 40px;
+}
+
+.navbar36 {
+    display: flex;
+    gap: 40px;
+}
+
+.navbar37 {
+    display: flex;
+    justify-content: space-between;
+    /* background-image: url(https://www.shutterstock.com/image-illustration/black-modern-car-headlights-front-600nw-771184300.jpg) ; */
+    background-color: black;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 500px;
+    padding: 50px;
+}
+
+.navbar38 {
+    display: flex;
+    flex-direction: column;
+    font-size: 15px;
+    color: white;
+}
+
+.navbar39 {
+    display: flex;
+    flex-direction: column;
+    font-size: 15px;
+}
+
+.navbar40 {
+    display: flex;
+    flex-direction: column;
+    font-size: 35px;
+    justify-content: center;
+}
+
+.navbar40 p {
+    width: 300px;
+}
+
+.navbar41 {
+    display: flex;
+    flex-direction: column;
+    font-size: 20px;
+    color: white;
+    justify-content: center;
+}
+
+.navbar41 p {
+    width: 300px;
+}
+
+.navbar42 {
+    display: flex;
+    flex-direction: column;
+    font-size: 20px;
+    gap: 50px;
+    justify-content: center;
+}
+
+.navbar43 {
+    display: flex;
+    gap: 90px;
+    color: white;
+}
+
+.navbar43 img {
+    height: 150px;
+    width: 150px;
+}
+
+.navbar44 {
+    display: flex;
+    gap: 150px;
+    color: white;
+}
+
+.navbar44 img {
+    height: 150px;
+    width: 150px;
+}
+
+.navbar45 {
+    display: flex;
+    background-color: black;
+    color: white;
+    gap: 300px;
+    height: 600px;
+}
+
+.navbar46 {
+    display: flex;
+    flex-direction: column;
+    font-size: 15px;
+    padding: 50px;
+}
+
+.navbar47 {
+    display: flex;
+    flex-direction: column;
+    font-size: 30px;
+}
+
+.navbar47 p {
+    width: 300px;
+}
+
+.navbar48 {
+    display: flex;
+    flex-direction: column;
+    font-size: 30px;
+}
+
+.navbar48 {
+    width: 300px;
+}
+
+.navbar46 button {
+    display: flex;
+    font-size: 15px;
+    align-items: center;
+    justify-content: center;
+    background-color: black;
+    color: white;
+    border: 1px solid white;
+    width: 150px;
+    height: 40px;
+    border-radius: 10px;
+}
+
+.box {
+    display: flex;
+    flex-direction: column;
+    width: 320px;
+    height: 450px;
+    padding: 50px;
+    gap: 40px;
+    border: 1px solid white;
+    border-radius: 10px;
+}
+
+.deep {
+    display: flex;
+    flex-direction: column;
+}
+
+.engineer {
+    display: flex;
+    flex-direction: column;
+}
+
+.learning {
+    display: flex;
+    flex-direction: column;
+    font-size: 22px;
+}
+
+.san {
+    display: flex;
+    flex-direction: column;
+    font-size: 19px;
+    gap: 20px;
+}
+
+.engineer button {
+    display: flex;
+    font-size: 15px;
+    padding: 10px 30px;
+    background-color: black;
+    color: white;
+    border: 1px solid white;
+    border-radius: 10px;
+    width: 155px;
+}
+
+.navbar49 {
+    display: flex;
+    flex-direction: column;
+    padding: 50px;
+}
+
+.navbar50 {
+    display: flex;
+    font-size: 30px;
+}
+
+.navbar50 h2 {
+    width: 300px;
+}
+
+.navbar51 {
+    display: flex;
+    flex-direction: column;
+    font-size: 20px;
+    gap: 20px;
+}
+
+.navbar52 {
+    display: flex;
+    gap: 70px;
+}
+
+.subscribe{
+    margin-left: 80px;
+}
+
+.navbar53 {
+    display: flex;
+    gap: 110px;
+}
+
+.navbar54 {
+    display: flex;
+    gap: 100px;
+}
+
+button {
+    display: flex;
+    font-size: 15px;
+    padding: 10px 30px;
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+}
+
+.navbar55 {
+    display: flex;
+    font-size: 20px;
+    padding: 50px;
+    gap: 500px;
+}
+
+.navbar55 p {
+    width: 200px;
+}
+
+.navbar56 {
+    display: flex;
+    font-size: 20px;
+}
+
+.navbar57 {
+    display: flex;
+    /* gap: 50px; */
+}
+
+.navbar58 {
+    display: flex;
+    gap: 50px;
+}
+
+.navbar58 img {
+    height: 28px;
+    width: 28px;
+}

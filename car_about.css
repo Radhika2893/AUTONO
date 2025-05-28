@@ -1,0 +1,279 @@
+.navbar {
+    display: flex;
+    flex-direction: column;
+}
+
+.navbar1 {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    font-weight: 600;
+}
+
+.navbar2 {
+    display: flex;
+    font-size: 20px;
+    color: black;
+    border-color: white;
+}
+
+.navbar2 a{
+    text-decoration: none;
+    color: black;
+}
+.navbar3 {
+    display: flex;
+    justify-content: center;
+    gap: 100px;
+    margin: 9px;
+}
+
+.navbar3 a{
+    color: black;
+    text-decoration: none;
+}
+
+button {
+    display: flex;
+    font-size: 15px;
+    padding: 10px 30px;
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+}
+
+.navbar4 h1{
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+    font-size: 60px;
+    font-weight: 600;
+    text-align: center;
+    margin-top: 50px;
+}
+
+.navbar4 p {
+    text-align: center;
+    font-size: 25px;
+    line-height: 45px;
+}
+
+.redefine{
+    display: flex;
+    padding: 50px;
+    gap: 300px;
+}
+
+.mission h5{
+    display: flex;
+    line-height: 30px;
+}
+
+.mission h3{
+    line-height: 30px;
+    font-size: 25px;
+    gap: 100px;
+}
+
+.mission p{
+    line-height: 28px;
+}
+
+.company img{
+    display: flex;
+    height: 550px;
+    border-radius: 10px;
+}
+
+.foundation{
+    display: flex;
+    flex-direction: column;
+    padding: 50px;
+    font-size: 25px;
+    gap: 50px;
+}
+
+.far{
+    font-size: 25px;
+}
+
+.c2013 {
+    width: 650px;
+    height: 250px;
+    padding: 10px 0px 25px 30px;
+    border: 1px solid black;
+    border-radius: 10px;
+}
+
+.c2013 h1{
+    font-size: 45px;
+    color: lightsalmon;
+    text-decoration: solid black;
+}
+
+.c2013 p{
+    font-size: 20px;
+}
+
+.c2015 {
+    width: 650px;
+    height: 250px;
+    margin-left: 280px;
+    padding: 10px 0px 25px 30px;
+    border: 1px solid black;
+    border-radius: 10px;
+}
+
+.c2015 h1{
+    font-size: 45px;
+    color: lightsalmon;
+    text-decoration: solid black;
+}
+
+.c2015 p{
+    font-size: 20px;
+}
+
+.image img{
+    display: flex;
+    flex-direction: column;
+    height: 700px;
+    width: 1070px;
+}
+
+.news{
+    display: flex;
+    flex-direction: column;
+    background-color: black;
+    height: 500px;
+    padding: 50px 0px 0px 60px;
+    gap: 150px;
+}
+
+.news1{
+    display: flex;
+    flex-direction: column; 
+    color: white; 
+}
+
+.news1 h4{
+    font-size: 20px;
+}
+
+.news1 p{
+    font-size: 22px;
+}
+
+.finance{
+    display: flex;
+    gap: 85px;
+}
+
+.finance1 img{
+    width: 120px;
+    height: 40px;
+}
+
+.finance2 img{
+    width: 120px;
+    height: 28px;
+}
+
+.finance3 img{
+    padding-top: 11px;
+    width: 110px;
+    height: 16px;
+}
+
+.finance4 img{
+    padding-top: 5px;
+    width: 120px;
+    height: 30px;
+}
+
+.finance5 img{
+    padding-top: 0px;
+    width: 130px;
+    height: 90px;
+}
+
+.navbar49 {
+    display: flex;
+    flex-direction: column;
+    padding: 50px;
+}
+
+.navbar50 {
+    display: flex;
+    font-size: 30px;
+}
+
+.navbar50 h2 {
+    width: 300px;
+}
+
+.navbar51 {
+    display: flex;
+    flex-direction: column;
+    font-size: 20px;
+    gap: 20px;
+}
+
+.navbar52 {
+    display: flex;
+    gap: 70px;
+}
+
+.subscribe{
+    margin-left: 80px;
+}
+
+.navbar53 {
+    display: flex;
+    gap: 110px;
+}
+
+.navbar54 {
+    display: flex;
+    gap: 100px;
+}
+
+button {
+    display: flex;
+    font-size: 15px;
+    padding: 10px 30px;
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+}
+
+.navbar55 {
+    display: flex;
+    font-size: 20px;
+    padding: 50px;
+    gap: 500px;
+}
+
+.navbar55 p {
+    width: 200px;
+}
+
+.navbar56 {
+    display: flex;
+    font-size: 20px;
+}
+
+.navbar57 {
+    display: flex;
+    /* gap: 50px; */
+}
+
+.navbar58 {
+    display: flex;
+    gap: 50px;
+}
+
+.navbar58 img {
+    height: 28px;
+    width: 28px;
+}

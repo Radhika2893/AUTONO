@@ -1,0 +1,370 @@
+.navbar {
+    display: flex;
+    flex-direction: column;
+}
+
+.navbar1 {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    font-weight: 600;
+}
+
+.navbar2 {
+    display: flex;
+    font-size: 20px;
+    color: black;
+    border-color: white;
+}
+
+.navbar2 a{
+    text-decoration: none;
+    color: black;
+}
+
+.navbar3 {
+    display: flex;
+    justify-content: center;
+    gap: 100px;
+    margin: 9px;
+}
+
+.navbar3 a{
+    color: black;
+    text-decoration: none;
+}
+
+button {
+    display: flex;
+    font-size: 15px;
+    padding: 10px 30px;
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+}
+
+.navbar4 h1{
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+    font-size: 60px;
+    font-weight: 600;
+    text-align: center;
+    margin-top: 50px;
+}
+
+.navbar4 p {
+    text-align: center;
+    font-size: 25px;
+    line-height: 45px;
+}
+
+.location{
+    display: flex;
+    padding: 0px 0px 0px 50px;
+    gap: 190px;
+}
+
+.innovation h5{
+    line-height: 30px;
+    padding-top: 130px;
+}
+
+.innovation h3{
+    line-height: 30px;
+    font-size: 25px;
+}
+
+.innovation p{
+    line-height: 30px;
+}
+
+.hub img{
+    display: flex;
+    height: 700px;
+}
+
+.job{
+    display: flex;
+    background-color: black;
+    height: 500px;
+    color: white;
+    /* padding: 50px 0px 0px 50px; */
+    gap: 279px;
+}
+
+.openings h5{
+    line-height: 30px;
+    padding: 50px 0px 0px 50px;
+}
+
+.openings h3{
+    line-height: 30px;
+    font-size: 25px;
+    padding: 0px 0px 0px 50px;
+}
+
+.openings p{
+    line-height: 30px;
+    padding: 30px 0px 0px 50px;
+}
+
+.transportation img{
+    display: flex;
+    height: 600px;
+}
+
+.eng_main{
+    display: flex;
+    flex-direction: column;
+    background-color: black;
+    color: white;
+    height: 1800px;
+    gap: 150px;
+}
+
+.engine{
+    display: flex;
+    gap: 150px;
+}
+
+.engineers1{
+    display: flex;
+    flex-direction: column;
+    gap: 100px;
+    padding: 100px 0px 0px 50px;
+}
+
+.electrical_engineer{
+    width: 320px;
+    height: 404px;
+    padding: 30px 30px 25px 30px;
+    border: 1px solid white;
+    border-radius: 10px;
+}
+
+.electrical_engineer h3{
+    gap: 50px;
+}
+
+.electrical_engineer h5{
+    font-size: 18px;
+}
+
+.electrical_engineer p{
+    font-size: 20px;
+}
+
+.cv{
+    display: flex;
+    flex-direction: column;
+    gap: 50px;
+}
+
+.cv button {
+    font-size: 15px;
+    background-color: white;
+    color: black;
+    border: solid black;
+    border-radius: 10px;
+    width: 130px;
+}
+
+.data_scientist {
+    width: 320px;
+    height: 404px;
+    padding: 30px 30px 25px 30px;
+    border: 1px solid white;
+    border-radius: 10px;
+}
+
+.data_scientist h5{
+    font-size: 18px;
+}
+
+.data_scientist p{
+    font-size: 20px;
+}
+
+button {
+    display: flex;
+    font-size: 15px;
+    padding: 10px 30px;
+    background-color: white;
+    color: black;
+    border-radius: 10px;
+}
+
+.engineers2{
+    display: flex;
+    flex-direction: column;
+    gap: 100px;
+    padding: 100px 0px 0px 50px;
+}
+
+.researcher{
+    width: 320px;
+    height: 404px;
+    padding: 30px 30px 25px 30px;
+    border: 1px solid white;
+    border-radius: 10px;
+}
+
+.researcher h3{
+    gap: 50px;
+}
+
+.researcher h5{
+    font-size: 18px;
+}
+
+.researcher p{
+    font-size: 20px;
+}
+
+button {
+    display: flex;
+    font-size: 15px;
+    padding: 10px 30px;
+    background-color: black;
+    color: white;
+    border: solid white;
+    border-radius: 10px;
+    gap: 50px 0px 0px 0px;
+}
+
+.dl_engineer {
+    width: 320px;
+    height: 404px;
+    padding: 30px 30px 25px 30px;
+    border: 1px solid white;
+    border-radius: 10px;
+}
+
+.dl_engineer h5{
+    font-size: 18px;
+}
+
+.dl_engineer p{
+    font-size: 20px;
+}
+
+button {
+    display: flex;
+    font-size: 15px;
+    padding: 10px 30px;
+    background-color: black;
+    color: white;
+    border: solid white;
+    border-radius: 10px;
+    gap: 50px 0px 0px 0px;
+}
+
+.engineers3 {
+    display: flex;
+    flex-direction: column;
+    border: 1px solid white;
+    width: 320px;
+    height: 250px;
+    color: black;
+    background-color: white;
+    padding: 30px 30px 25px 30px;
+    margin-left: 50px;
+    border-radius: 10px;
+} 
+
+.cv{
+    line-height: 40px;
+}
+
+button {
+    display: flex;
+    font-size: 15px;
+    padding: 10px 30px;
+    background-color: white;
+    color: black;
+    /* border: solid black; */
+    border-radius: 10px;
+    gap: 50px 0px 0px 0px;
+}
+
+.navbar49 {
+    display: flex;
+    flex-direction: column;
+    padding: 50px;
+}
+
+.navbar50 {
+    display: flex;
+    font-size: 30px;
+}
+
+.navbar50 h2 {
+    width: 300px;
+}
+
+.navbar51 {
+    display: flex;
+    flex-direction: column;
+    font-size: 20px;
+    gap: 20px;
+}
+
+.navbar52 {
+    display: flex;
+    gap: 70px;
+}
+
+.subscribe{
+    margin-left: 80px;
+}
+
+.navbar53 {
+    display: flex;
+    gap: 110px;
+}
+
+.navbar54 {
+    display: flex;
+    gap: 100px;
+}
+
+button {
+    display: flex;
+    font-size: 15px;
+    padding: 10px 30px;
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+}
+
+.navbar55 {
+    display: flex;
+    font-size: 20px;
+    padding: 50px;
+    gap: 500px;
+}
+
+.navbar55 p {
+    width: 200px;
+}
+
+.navbar56 {
+    display: flex;
+    font-size: 20px;
+}
+
+.navbar57 {
+    display: flex;
+    /* gap: 50px; */
+}
+
+.navbar58 {
+    display: flex;
+    gap: 50px;
+}
+
+.navbar58 img {
+    height: 28px;
+    width: 28px;
+}
